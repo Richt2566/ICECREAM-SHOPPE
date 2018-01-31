@@ -1,20 +1,26 @@
-# ICECREAM-SHOPPE
+# ICECREAM SHOPPE
 
-One Paragraph of project description goes here
+This repository contains a full stack application utilizing all the working parts of a server, database, and user-interactive front-end. 
+
+## Objectives
+
+* Allow the user to make changes to the database, add, remove, edit any piece they wish.
 
 ## Built With
 
-## Authors
+* Html5
+* CSS3
+* MySQL Database
+* [JQuery ver 3.2.1](https://code.jquery.com/)
 
-* **Rich Tranter** - *Initial work* - (https://github.com/Richt2566)
+## Contributors
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* [Rich Tranter](https://github.com/Richt2566/)
 
 ## License
 
+* None
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* [Maggie Storino](https://www.linkedin.com/in/maggiestorino/) and [Phil Wise](https://www.linkedin.com/in/philipwise/)
